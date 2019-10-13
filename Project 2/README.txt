@@ -8,7 +8,7 @@ Link to Github Repo: https://github.com/tgeraghty/CS7641-Machine-Learning/tree/m
 
 Dataset: Online News Popularity
 Source: https://archive.ics.uci.edu/ml/datasets/Online+News+Popularity
-Notebook: Project 2 - Online News Popularity
+Notebook: Project 2 - Randomized Optimization NN Comparison
 
 Links used for feature engineering for online news popularity dataset:
 https://towardsdatascience.com/feature-selection-techniques-in-machine-learning-with-python-f24e7da3f36e
